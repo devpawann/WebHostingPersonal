@@ -1,0 +1,14 @@
+Name: Pawan Acharya
+Roll: BCT A 48
+
+About project:
+  Language used: HTML,CSS and Bootstrap-4 framework and some JS 
+
+
+
+
+<I was confused what to include in my portfolio so there is no lot of contents there but yes 
+i made effort on making it look good. As this is my first project i was not abole to do more 
+like fully responsive and other. Thats all the output from 10days training and my personal
+ research.
+          And at last Thank you Prakash Sir for your guidance in the training>
